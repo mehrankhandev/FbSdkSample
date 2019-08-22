@@ -10,3 +10,9 @@ cd ios && pod install
 react-native run-android
 react-native run-ios
 ```
+
+# App Preview
+
+
+
+![App Preview](app_preview1.gif)
